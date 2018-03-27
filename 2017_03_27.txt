@@ -1,0 +1,101 @@
+# 2018.03.27
+
+## 단축키 (Shortcut)
+
+### 터미널 (Terminal) -> Command Line
+- 명령어 깔끔하게 지우기
+```
+Command + K
+```
+
+- 마지막에 작성된 명령어 띄우기
+```
+방향키 위쪽
+```
+
+- 터미널 창 한개 더 만들기 (오른쪽)
+```
+Command + D
+```
+
+- 터미널 창 한개 더 만들기 (아래쪽)
+```
+Command + Shift + D
+```
+
+- 터미널 탭 만들기
+```
+Command + T
+```
+
+- 터미널 탭 이동
+```
+Command + 숫자키 (1,2,3,4)
+```
+
+### 시스템 (System)
+
+- 설정창 들어가기
+```
+Command + ,
+```
+
+- 전원 끄기 (Shutdown)
+```
+Control + Option + Command + 전원키
+```
+
+- 잠자기 (Sleep) (대기모드)
+```
+Control + Shift + 전원키
+```
+
+- 복사 (Copy)
+```
+Command + C
+```
+
+- 붙여넣기 (Paste)
+```
+Command + V
+```
+
+- 파일 삭제 (Delete)
+```
+Command + BackSpace 
+```
+
+### Mac OS
+- 한눈에 띄어진 다 보기
+```
+Control + 방향키 위쪽
+```
+
+- 현재 있는 창만 보기
+```
+Control + 방향키 아래
+```
+
+- Workspace 이동하기
+```
+Control + 방향키 왼쪽, 오른쪽
+```
+
+- F1, F11의 기능 사용하기
+```
+Fn + F1~F12
+
+- 저장하기
+```
+Command + S
+```
+
+- 창닫기 (앱종료 아님 창만 닫는거)
+```
+Command + W
+```
+
+- 프로그램 종료 (앱종료)
+```
+Command + Q
+```
